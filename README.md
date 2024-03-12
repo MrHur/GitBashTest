@@ -85,7 +85,8 @@ GIT Branch 전략
 
 Gitflow, Feature Branch, Forking Workflow는 Git을 사용하여 소프트웨어 개발을 위한 다양한 브랜치 전략입니다. 각각의 전략은 프로젝트의 규모, 팀 구성 및 개발 프로세스에 맞게 선택할 수 있습니다.
 
-  <Gitflow>
+<Gitflow>
+  
 Gitflow는 Vincent Driessen에 의해 제안된 브랜치 관리 전략입니다.
 주요 특징은 다음과 같습니다:
 Master 브랜치: 제품 출시 버전을 관리하는 메인 브랜치입니다. 안정적인 상태의 코드만을 유지합니다.
@@ -94,14 +95,16 @@ Feature 브랜치: 새로운 기능을 개발하기 위한 브랜치입니다. D
 Release 브랜치: 새로운 출시를 준비하는 브랜치입니다. Develop 브랜치에서 분기되고, 품질 검증이 완료된 후 Master 브랜치와 Develop 브랜치로 병합됩니다.
 Hotfix 브랜치: 제품의 긴급한 버그 수정을 위한 브랜치입니다. Master 브랜치에서 분기되고, 수정이 완료되면 Master와 Develop 브랜치로 병합됩니다.
 
-  <Feature Branch>
+<Feature Branch>
+  
 Feature Branch 전략은 각각의 기능을 별도의 브랜치로 관리하는 전략입니다.
 주요 특징은 다음과 같습니다:
 각각의 기능은 Develop 브랜치에서 분기된 별도의 브랜치로 개발됩니다.
 기능 개발이 완료되면 Develop 브랜치로 다시 병합됩니다.
 이러한 방식으로 기능 간 충돌이 최소화되고, 개발 과정을 보다 모듈화하고 추적하기 쉽습니다.
 
-  <Forking Workflow>
+<Forking Workflow>
+  
 Forking Workflow는 각 개발자가 자신의 개인 저장소에서 작업을 수행하는 전략입니다.
 주요 특징은 다음과 같습니다:
 프로젝트 저장소를 개인 계정으로 Fork하여 개인 작업을 수행합니다.
