@@ -82,7 +82,6 @@ GIT을 능숙하게 다루기 위해서는 이러한 항목들을 숙지하고 �
 ---
 
 GIT Branch 전략
-<br>
 Gitflow, Feature Branch, Forking Workflow는 Git을 사용하여 소프트웨어 개발을 위한 다양한 브랜치 전략입니다. 각각의 전략은 프로젝트의 규모, 팀 구성 및 개발 프로세스에 맞게 선택할 수 있습니다.
 <br>
 
