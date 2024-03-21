@@ -16,19 +16,33 @@ Git_bash를 쓰는 이유는 Linux 환경에 익숙해지기 위해서입니다.
 ---
 
 git init: 현재 디렉토리를 Git 저장소로 초기화합니다.
+
 git clone [url]: 원격 저장소의 프로젝트를 복제합니다.
+
 git add [file]: 변경된 파일을 Staging Area에 추가합니다.
+
 git commit -m "[message]": Staging Area에 있는 변경 사항을 커밋합니다.
+
 git status: 현재 작업 디렉토리의 상태를 확인합니다.
+
 git log: 커밋 기록을 조회합니다.
+
 git pull: 원격 저장소에서 최신 변경 사항을 가져와 현재 브랜치에 병합합니다.
+
 git push: 현재 브랜치의 변경 사항을 원격 저장소로 푸시합니다.
+
 git branch: 브랜치 목록을 표시합니다.
+
 git checkout [branch_name]: 특정 브랜치로 전환합니다.
+
 git merge [branch_name]: 다른 브랜치를 현재 브랜치에 병합합니다.
+
 git remote -v: 현재 연결된 원격 저장소를 확인합니다.
+
 git remote add [name] [url]: 새로운 원격 저장소를 추가합니다.
+
 git remote remove [name]: 원격 저장소를 제거합니다.
+
 git diff: 변경된 내용을 확인합니다.
 
 ---
