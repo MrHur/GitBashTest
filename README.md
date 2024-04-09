@@ -9,11 +9,13 @@ Git_bash를 쓰는 이유는 Linux 환경에 익숙해지기 위해서입니다.
 
 ![3c38e8](https://github.com/MrHur/GitBashTest/assets/79696786/dbd78d9a-6411-4f6a-9920-2f9c486bf76d)
 
-<Git bash 기본 명령어>
+
 
 여기에 몇 가지 기본적인 Git 명령어를 제공합니다. 이러한 명령어들은 Git을 사용하여 프로젝트를 관리하고 버전을 관리하는 데 도움이 됩니다.
 
 ---
+
+💡 Git bash 기본 명령어
 
 git init: 현재 디렉토리를 Git 저장소로 초기화합니다.
 
