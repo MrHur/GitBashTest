@@ -1,4 +1,4 @@
-:laptop: # GitBashTest
+# GitBashTest   :laptop:
 
 Git_bash_test Repository입니다.
 
