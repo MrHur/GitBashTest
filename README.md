@@ -47,6 +47,8 @@ git remote remove [name]: 원격 저장소를 제거합니다.
 
 git diff: 변경된 내용을 확인합니다.
 
+git stash: 임의의 변경사항을 저장
+
 ---
 
 
