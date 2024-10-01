@@ -58,6 +58,7 @@ GIT을 능숙하게 다루기 위해서는 다음과 같은 항목을 학습하�
 버전 관리 시스템의 기본 개념과 GIT의 작동 방식을 이해합니다.
 커밋, 브랜치, 병합, 리베이스, 충돌 해결 등의 핵심 개념을 숙지합니다.
  <br>
+ <br>
  
 GIT 명령어 숙지: <br>
 기본적인 GIT 명령어인 clone, init, add, commit, push, pull, fetch, merge, rebase, checkout, branch 등을 익힙니다.
